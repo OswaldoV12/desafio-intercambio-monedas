@@ -1,0 +1,26 @@
+[
+  {
+    "estado": "success",
+    "cambioBase": "USD",
+    "cambioDeaseado": "MXN",
+    "valorPrevio": 12.0,
+    "valor": 224.808,
+    "fecha": "19/07/2025 00:20:28"
+  },
+  {
+    "estado": "success",
+    "cambioBase": "USD",
+    "cambioDeaseado": "BRL",
+    "valorPrevio": 67.0,
+    "valor": 372.1247,
+    "fecha": "19/07/2025 00:20:38"
+  },
+  {
+    "estado": "success",
+    "cambioBase": "USD",
+    "cambioDeaseado": "ARS",
+    "valorPrevio": 45.0,
+    "valor": 57772.35,
+    "fecha": "19/07/2025 00:20:42"
+  }
+]
